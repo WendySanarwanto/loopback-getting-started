@@ -2,5 +2,15 @@
   "db": {
     "name": "db",
     "connector": "memory"
+  },
+  "mongodbDs": {
+    "host": "localhost",
+    "port": 27017,
+    "url": "mongodb//localhost:27017/api-research",
+    "database": "api-research",
+    "password": "",
+    "name": "mongodbDs",
+    "user": "",
+    "connector": "mongodb"
   }
 }
