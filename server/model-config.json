@@ -35,8 +35,8 @@
   "Message": {
     "dataSource": null
   },
-  "GamingPc": {
-    "dataSource": "db",
+  "gamingpc": {
+    "dataSource": "mongodbDs",
     "public": true
   }
 }
