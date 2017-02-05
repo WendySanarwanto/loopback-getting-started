@@ -1,5 +1,5 @@
 'use strict';
 
-module.exports = function(Gamingpc) {
+module.exports = function(gamingpc) {
 
 };

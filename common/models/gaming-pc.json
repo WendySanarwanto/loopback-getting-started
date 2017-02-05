@@ -1,5 +1,5 @@
 {
-  "name": "GamingPc",
+  "name": "gamingpc",
   "base": "PersistedModel",
   "idInjection": true,
   "options": {
