@@ -6,7 +6,7 @@
   "mongodbDs": {
     "host": "localhost",
     "port": 27017,
-    "url": "mongodb//localhost:27017/api-research",
+    "url": "mongodb://localhost:27017/api-research",
     "database": "api-research",
     "password": "",
     "name": "mongodbDs",
